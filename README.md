@@ -1,4 +1,8 @@
 # R_twilio_request
+You can load the main functions from this repo
+```r
+source('https://raw.githubusercontent.com/jbenitesg/R_twilio_request/main/twilio_request.R')
+```
 
 ## Launch of Twilio messages
 ```r 
